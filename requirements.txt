@@ -2,3 +2,4 @@ tqdm
 pygame
 numpy
 image
+django>=2.2.25 # not directly required, pinned by Snyk to avoid a vulnerability
